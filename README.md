@@ -1,11 +1,11 @@
 # Zone Config Files for my Github Profile
 
-안녕하세요! 저는 jiw0n0107입니다. 이 저장소는 제 GitHub 프로필을 위한 다양한 설정 파일들을 모아 놓은 곳입니다. 현대오토에버에서의 도전과 성장을 목표로 하고 있습니다. 
+안녕하세요! 저는 T-Sculp 입니다. 이 저장소는 제 GitHub 프로필을 위한 다양한 설정 파일들을 모아 놓은 곳입니다. 현대오토에버에서의 도전과 성장을 목표로 하고 있습니다. 
 
 ## 🌟 About Me
 
 ```yaml
-name: Jiwon
+name: T-Sculp
 location: South Korea
 interests: 
   - Full-Stack Development
